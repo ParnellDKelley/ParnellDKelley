@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ParnellDKelley
+- 👀 I’m interested in developing software to connect community all around the world.
+- 🌱 I’m currently working as an intern for the web team.
+- 💞️ I’m looking to collaborate! Feel free to reach out. 
+- 📫 You can reach me on Slack. 
